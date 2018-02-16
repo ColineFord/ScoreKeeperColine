@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottom">8dp</dimen>
+    <dimen name="marginLR">22dp</dimen>
+    <dimen name="paddingTeam">10dp</dimen>
+    <dimen name="teamSize">26sp</dimen>
+    <dimen name="scoreSize">60sp</dimen>
+    <dimen name="scorePaddingBottom">20dp</dimen>
+    <dimen name="imageWH">70dp</dimen>
+    <dimen name="resetMargin">15dp</dimen>
+    <dimen name="viewMargin">16dp</dimen>
+
+</resources>

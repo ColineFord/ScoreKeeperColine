@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="teamA">Team A</string>
+    <string name="try5">TRY +5</string>
+    <string name="transfo2">Trans +2</string>
+    <string name="dropkick3">Drop +3</string>
+    <string name="penalty3">PENALTY +3</string>
+    <string name="teamB">Team B</string>
+    <string name="reset">Reset</string>
+    <string name="intScore">0</string>
+
+</resources>
